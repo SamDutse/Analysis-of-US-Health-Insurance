@@ -2,7 +2,8 @@
 ## INTRODUCTION
 I conducted an in-depth analysis of the Insurance dataset using SQL to provide insights into the healthcare industry. Here's a brief overview of what I did:
 
-## ANALYSIS AND FINDINGS
+## ANALYSIS, VISUALIZATION AND FINDINGS
+![](US-Health-Insurance-Report.png)
 - Explored the data by viewing the top 10 rows, checking for null values, and identifying outliers using statistical measures.
 - Standardized the categorical variables by transforming the smoker variable from yes and no to 1's and 0's.
 - Created a new variable based on age and sex to provide a more detailed view of the data.
