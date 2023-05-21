@@ -1,7 +1,7 @@
 # Analysis-of-US-Health-Insurance-Using-MS-SQL
 ## INTRODUCTION
 I conducted an in-depth analysis of the Insurance dataset using SQL to provide insights into the healthcare industry. Here's a brief overview of what I did:
-
+#### TOOLS USED: MS SQL and MS Excel
 ## ANALYSIS, VISUALIZATION AND FINDINGS
 ![](US-Health-Insurance-Report.png)
 - Explored the data by viewing the top 10 rows, checking for null values, and identifying outliers using statistical measures.
