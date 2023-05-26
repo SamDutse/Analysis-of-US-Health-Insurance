@@ -1,10 +1,10 @@
--- VIWEING THE TOP 10 ROWS OF THE DATA
+-- Viewing the top rows to have a glimpse of the data
 SELECT
 	TOP 10 *
 FROM
 	Insurance$
 
--- CHECKING FOR NULLS OR BLANK FILLS
+-- Checking for nulls or blanks in columns
 SELECT
 	(SELECT COUNT(*) FROM Insurance$ WHERE Age IS NULL)	AS Age_Is_Null_Count,
 	(SELECT COUNT(*) FROM Insurance$ WHERE Sex IS NULL)	AS Sex_Is_Null_Count,
